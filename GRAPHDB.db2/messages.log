@@ -1,0 +1,706 @@
+2015-03-04 17:44:41.714+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2015-03-04 17:44:41.870+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2015-03-04 17:44:42.120+0000 INFO  [o.n.k.i.n.s.StoreFactory]: Creating new db @ GRAPHDB.db\neostore
+2015-03-04 17:44:43.904+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:43.904+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:43.935+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:44.107+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:44.623+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:44.623+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:44.654+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:44.873+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:45.388+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:45.388+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:45.388+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:45.404+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:45.404+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=47104b mappedMem=47185920b (storeSize=128b)
+2015-03-04 17:44:45.404+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:45.404+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:45.404+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=54400b mappedMem=54525952b (storeSize=128b)
+2015-03-04 17:44:45.404+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=566210b mappedMem=56623104b (storeSize=0b)
+2015-03-04 17:44:45.420+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=692036b mappedMem=69206016b (storeSize=0b)
+2015-03-04 17:44:45.420+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 17:44:45.435+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=157275b mappedMem=15728640b (storeSize=0b)
+2015-03-04 17:44:45.435+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 17:44:45.435+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 17:44:45.435+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:45.482+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:45.638+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:45.779+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:45.935+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.091+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.216+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.357+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.499+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.639+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.795+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:46.936+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:47.124+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:47.249+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:47.437+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:47.640+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore hit=0 miss=8 switches=0 ooe=0
+2015-03-04 17:44:47.784+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=47104b mappedMem=47185920b (storeSize=128b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=54400b mappedMem=54525952b (storeSize=128b)
+2015-03-04 17:44:47.799+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=566210b mappedMem=56623104b (storeSize=0b)
+2015-03-04 17:44:47.815+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=692036b mappedMem=69206016b (storeSize=0b)
+2015-03-04 17:44:47.815+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 17:44:47.815+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=157275b mappedMem=15728640b (storeSize=0b)
+2015-03-04 17:44:47.815+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 17:44:47.815+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 17:44:47.815+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2015-03-04 17:44:47.991+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2015-03-04 17:44:48.038+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2015-03-04 17:44:48.210+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\nioneo_logical.log.1] version=0, lastTxId=1 (clean)
+2015-03-04 17:44:48.335+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Rebuilding lucene scan store, this may take a while
+2015-03-04 17:44:48.351+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Lucene scan store rebuilt (roughly -1 nodes)
+2015-03-04 17:44:48.351+0000 INFO  [o.n.k.i.t.TxManager]: TM new log: tm_tx_log.1
+2015-03-04 17:44:48.429+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2015-03-04 17:44:48.460+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\index\lucene.log.1] version=0, lastTxId=1 (clean)
+2015-03-04 17:44:48.523+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2015-03-04 17:44:48.538+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2015-03-04 17:44:48.663+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2015-03-04 17:44:48.809+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2015-03-04 17:44:48.811+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2015-03-04 17:44:54.239+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2015-03-04 17:44:54.239+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2015-03-04 17:44:54.239+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2015-03-04 17:44:54.360+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\index\lucene.log
+2015-03-04 17:44:54.496+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2015-03-04 17:44:55.149+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\nioneo_logical.log
+2015-03-04 17:44:55.278+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:44:55.423+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:44:55.673+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:44:55.845+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:44:56.001+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:56.220+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:44:56.532+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:44:56.726+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:56.897+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db hit=40 miss=0 switches=0 ooe=0
+2015-03-04 17:44:57.007+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipstore.db hit=27 miss=0 switches=0 ooe=0
+2015-03-04 17:44:57.164+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:57.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db hit=34 miss=0 switches=0 ooe=0
+2015-03-04 17:44:57.421+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:57.578+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:44:57.734+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore hit=0 miss=35 switches=0 ooe=0
+2015-03-04 17:44:57.875+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2015-03-04 17:44:57.875+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2015-03-04 17:44:57.875+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2015-03-04 17:45:57.617+0000 INFO  [org.neo4j]: You are using an unsupported version of the Java runtime. Please use Oracle(R) Java(TM) Runtime Environment 7 or OpenJDK(TM) 7.
+2015-03-04 17:45:57.696+0000 INFO  [org.neo4j]: No locking implementation specified, defaulting to 'community'
+2015-03-04 17:45:57.852+0000 INFO  [org.neo4j]: --- INITIALIZED diagnostics START ---
+2015-03-04 17:45:57.852+0000 INFO  [org.neo4j]: Neo4j Kernel properties:
+    neostore.propertystore.db.strings.mapped_memory=41M
+    ephemeral=false
+    neostore.nodestore.db.mapped_memory=12M
+    store_dir=GRAPHDB.db
+    read_only=false
+    neostore.propertystore.db.arrays.mapped_memory=47M
+    neostore.relationshipgroupstore.db.mapped_memory=0M
+    neostore.propertystore.db.mapped_memory=46M
+    neostore.relationshipstore.db.mapped_memory=55M
+2015-03-04 17:45:57.868+0000 INFO  [org.neo4j]: Diagnostics providers:
+    org.neo4j.kernel.configuration.Config
+    org.neo4j.kernel.info.DiagnosticsManager
+    SYSTEM_MEMORY
+    JAVA_MEMORY
+    OPERATING_SYSTEM
+    JAVA_VIRTUAL_MACHINE
+    CLASSPATH
+    LIBRARY_PATH
+    SYSTEM_PROPERTIES
+    NETWORK
+2015-03-04 17:45:57.868+0000 INFO  [org.neo4j]: System memory information:
+    Total Physical memory: 3,87 GB
+    Free Physical memory: 1,21 GB
+    Committed virtual memory: 125,23 MB
+    Total swap space: 7,74 GB
+    Free swap space: 3,06 GB
+2015-03-04 17:45:57.868+0000 INFO  [org.neo4j]: JVM memory information:
+    Free  memory: 44,44 MB
+    Total memory: 59,50 MB
+    Max   memory: 882,00 MB
+    Garbage Collector: PS Scavenge: [PS Eden Space, PS Survivor Space]
+    Garbage Collector: PS MarkSweep: [PS Eden Space, PS Survivor Space, PS Old Gen]
+    Memory Pool: Code Cache (Non-heap memory): committed=2,44 MB, used=2,30 MB, max=240,00 MB, threshold=0,00 B
+    Memory Pool: Metaspace (Non-heap memory): committed=6,63 MB, used=6,31 MB, max=-1,00 B, threshold=0,00 B
+    Memory Pool: Compressed Class Space (Non-heap memory): committed=896,00 kB, used=842,30 kB, max=1,00 GB, threshold=0,00 B
+    Memory Pool: PS Eden Space (Heap memory): committed=15,50 MB, used=15,06 MB, max=325,50 MB, threshold=?
+    Memory Pool: PS Survivor Space (Heap memory): committed=2,50 MB, used=0,00 B, max=2,50 MB, threshold=?
+    Memory Pool: PS Old Gen (Heap memory): committed=41,50 MB, used=0,00 B, max=661,50 MB, threshold=0,00 B
+2015-03-04 17:45:57.883+0000 INFO  [org.neo4j]: Operating system information:
+    Operating System: Windows 8.1; version: 6.3; arch: amd64; cpus: 2
+    Process id: 9704@idea-PC
+    Byte order: LITTLE_ENDIAN
+    Local timezone: America/Santiago
+2015-03-04 17:45:57.922+0000 INFO  [org.neo4j]: JVM information:
+    VM Name: Java HotSpot(TM) 64-Bit Server VM
+    VM Vendor: Oracle Corporation
+    VM Version: 25.25-b02
+    JIT compiler: HotSpot 64-Bit Tiered Compilers
+    VM Arguments: [-Dapp.name=neo4j-shell, -Dapp.repo=C:\Users\PABLOC~1\WORKSP~1\THESIS~1\neo4jdb\bin\\..\lib, -Dbasedir=C:\Users\PABLOC~1\WORKSP~1\THESIS~1\neo4jdb\bin\\..]
+2015-03-04 17:45:57.924+0000 INFO  [org.neo4j]: Java classpath:
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/lucene-core-3.6.2.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-lucene-index-2.1.7.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\jsse.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/org.apache.servicemix.bundles.jline-0.9.94_1.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\sunrsasign.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/parboiled-scala_2.10-1.1.6.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\parboiled-scala_2.10-1.1.6.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-primitive-collections-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-udc-2.1.7.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/concurrentlinkedhashmap-lru-1.3.1.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-graph-matching-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-cypher-commons-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-cypher-2.1.7.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/geronimo-jta_1.1_spec-1.1.1.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-cypher-compiler-1.9-2.0.3.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-cypher-commons-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\scala-library-2.10.4.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/parboiled-core-1.1.6.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/dnsns.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/cldrdata.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-cypher-compiler-1.9-2.0.3.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/access-bridge-64.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/nashorn.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-shell-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-lucene-index-2.1.7.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\charsets.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\jce.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\classes
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/localedata.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/server-api-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-graph-algo-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-jmx-2.1.7.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/sunmscapi.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\jfr.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\lucene-core-3.6.2.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-kernel-2.1.7.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-graph-algo-2.1.7.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\resources.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/jaccess.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\parboiled-core-1.1.6.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\geronimo-jta_1.1_spec-1.1.1.jar
+     [bootstrap] C:\Program Files\Java\jre1.8.0_25\lib\rt.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/zipfs.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-graph-matching-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\server-api-2.1.7.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-shell-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\opencsv-2.3.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-udc-2.1.7.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/scala-library-2.10.4.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/sunjce_provider.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-jmx-2.1.7.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/sunec.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-cypher-compiler-2.1-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-cypher-compiler-2.0-2.0.3.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\org.apache.servicemix.bundles.jline-0.9.94_1.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-primitive-collections-2.1.7.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\concurrentlinkedhashmap-lru-1.3.1.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-cypher-compiler-2.0-2.0.3.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/opencsv-2.3.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-kernel-2.1.7.jar
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/sunpkcs11.jar
+     [classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt\neo4jdb\lib\neo4j-cypher-compiler-2.1-2.1.7.jar
+     [classpath + classpath] C:\Users\Pablo Cruz Navea\workspace\ThesisProt
+     [loader.1] file:/C:/Program%20Files/Java/jre1.8.0_25/lib/ext/jfxrt.jar
+     [loader.0] file:/C:/Users/Pablo%20Cruz%20Navea/workspace/ThesisProt/neo4jdb/lib/neo4j-cypher-2.1.7.jar
+2015-03-04 17:45:57.943+0000 INFO  [org.neo4j]: Library path:
+    C:\ProgramData\Oracle\Java\javapath
+    C:\Windows\Sun\Java\bin
+    C:\Windows\System32
+    C:\Windows
+    C:\ProgramData\Oracle\Java\javapath
+    C:\Program Files (x86)\Intel\iCLS Client
+    C:\Program Files\Intel\iCLS Client
+    C:\Windows\System32
+    C:\Windows
+    C:\Windows\System32\wbem
+    C:\Windows\System32\WindowsPowerShell\v1.0
+    C:\Program Files\Intel\Intel(R) Management Engine Components\DAL
+    C:\Program Files\Intel\Intel(R) Management Engine Components\IPT
+    C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL
+    C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT
+    C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86
+    C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64
+    C:\Program Files\MiKTeX 2.9\miktex\bin\x64
+    C:\Program Files\TortoiseSVN\bin
+    C:\Windows\System32
+    C:\Windows
+    C:\Windows\System32\wbem
+    C:\Windows\System32\WindowsPowerShell\v1.0
+    C:\Program Files (x86)\ChucK\bin
+    C:\Program Files\Microsoft SQL Server\110\Tools\Binn
+    C:\Program Files (x86)\QuickTime\QTSystem
+    C:\gradle-2.2\bin
+    C:\apache-maven-3.2.3\bin
+    C:\Ruby200-x64\bin
+    C:\Users\Pablo Cruz Navea\workspace\ThesisProt
+2015-03-04 17:45:57.974+0000 INFO  [org.neo4j]: System.properties:
+    sun.boot.library.path = C:\Program Files\Java\jre1.8.0_25\bin
+    path.separator = ;
+    file.encoding.pkg = sun.io
+    user.country = CL
+    user.script = 
+    sun.java.launcher = SUN_STANDARD
+    sun.os.patch.level = 
+    user.dir = C:\Users\Pablo Cruz Navea\workspace\ThesisProt
+    basedir = C:\Users\PABLOC~1\WORKSP~1\THESIS~1\neo4jdb\bin\\..
+    user.variant = 
+    app.name = neo4j-shell
+    sun.jnu.encoding = Cp1252
+    app.repo = C:\Users\PABLOC~1\WORKSP~1\THESIS~1\neo4jdb\bin\\..\lib
+    sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+    user.home = C:\Users\Pablo Cruz Navea
+    user.timezone = America/Santiago
+    file.encoding = Cp1252
+    user.name = Pablo Cruz Navea
+    sun.java.command = org.neo4j.shell.StartClient -path GRAPHDB.db
+    sun.arch.data.model = 64
+    user.language = es
+    awt.toolkit = sun.awt.windows.WToolkit
+    sun.stderr.encoding = cp850
+    file.separator = \
+    sun.io.unicode.encoding = UnicodeLittle
+    sun.cpu.endian = little
+    sun.stdout.encoding = cp850
+    sun.desktop = windows
+    sun.cpu.isalist = amd64
+2015-03-04 17:45:57.974+0000 INFO  [org.neo4j]: Network information:
+    Interface Software Loopback Interface 1:
+        address: 127.0.0.1
+        address: 0:0:0:0:0:0:0:1
+    Interface Controladora Fast Ethernet Qualcomm Atheros AR8172/8176/8178 PCI-E (NDIS 6.30):
+        address: fe80:0:0:0:1020:f227:bd56:1014%eth0
+    Interface Adaptador de red inalámbrica Qualcomm Atheros AR9485:
+        address: 192.168.1.100
+        address: fe80:0:0:0:b911:4703:4977:181c%wlan0
+    Interface Adaptador de red de depuración de kernel de Microsoft:
+    Interface Teredo Tunneling Pseudo-Interface:
+        address: 2001:0:9d38:6abd:24e4:217c:3f57:fe9b
+        address: fe80:0:0:0:24e4:217c:3f57:fe9b%net0
+    Interface Adaptador virtual directo Wi-Fi de Microsoft:
+        address: fe80:0:0:0:4d6a:14ef:44e2:9349%wlan1
+    Interface Adaptador ISATAP de Microsoft #3:
+    Interface Adaptador ISATAP de Microsoft:
+        address: fe80:0:0:0:0:5efe:c0a8:164%net2
+    Interface Adaptador ISATAP de Microsoft #2:
+    Interface Controladora Fast Ethernet Qualcomm Atheros AR8172/8176/8178 PCI-E (NDIS 6.30)-WFP Native MAC Layer LightWeight Filter-0000:
+    Interface Controladora Fast Ethernet Qualcomm Atheros AR8172/8176/8178 PCI-E (NDIS 6.30)-QoS Packet Scheduler-0000:
+    Interface Controladora Fast Ethernet Qualcomm Atheros AR8172/8176/8178 PCI-E (NDIS 6.30)-WFP 802.3 MAC Layer LightWeight Filter-0000:
+    Interface Adaptador de red inalámbrica Qualcomm Atheros AR9485-WFP Native MAC Layer LightWeight Filter-0000:
+    Interface Adaptador de red inalámbrica Qualcomm Atheros AR9485-Virtual WiFi Filter Driver-0000:
+    Interface Adaptador de red inalámbrica Qualcomm Atheros AR9485-Native WiFi Filter Driver-0000:
+    Interface Adaptador de red inalámbrica Qualcomm Atheros AR9485-QoS Packet Scheduler-0000:
+    Interface Adaptador de red inalámbrica Qualcomm Atheros AR9485-WFP 802.3 MAC Layer LightWeight Filter-0000:
+    Interface Adaptador virtual directo Wi-Fi de Microsoft-WFP Native MAC Layer LightWeight Filter-0000:
+    Interface Adaptador virtual directo Wi-Fi de Microsoft-Native WiFi Filter Driver-0000:
+    Interface Adaptador virtual directo Wi-Fi de Microsoft-QoS Packet Scheduler-0000:
+    Interface Adaptador virtual directo Wi-Fi de Microsoft-WFP 802.3 MAC Layer LightWeight Filter-0000:
+2015-03-04 17:45:58.036+0000 INFO  [org.neo4j]: --- INITIALIZED diagnostics END ---
+2015-03-04 17:45:58.417+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:45:58.417+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2015-03-04 17:45:58.417+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2015-03-04 17:45:58.417+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+2015-03-04 17:45:58.417+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=42880b mappedMem=42991616b (storeSize=128b)
+2015-03-04 17:45:58.417+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:45:58.433+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=18b)
+2015-03-04 17:45:58.433+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=49280b mappedMem=49283072b (storeSize=128b)
+2015-03-04 17:45:58.449+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=48216b mappedMem=48234496b (storeSize=1148b)
+2015-03-04 17:45:58.464+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=57664b mappedMem=57671680b (storeSize=612b)
+2015-03-04 17:45:58.464+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 17:45:58.480+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=12570b mappedMem=12582912b (storeSize=150b)
+2015-03-04 17:45:58.495+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 17:45:58.511+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 17:45:58.511+0000 INFO  [org.neo4j]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2015-03-04 17:45:58.965+0000 INFO  [org.neo4j]: Opened logical log [GRAPHDB.db\nioneo_logical.log.1] version=1, lastTxId=21 (clean)
+2015-03-04 17:45:59.044+0000 INFO  [org.neo4j]: TM opening log: GRAPHDB.db\tm_tx_log.1
+2015-03-04 17:45:59.059+0000 INFO  [org.neo4j]: Kernel health set to OK
+2015-03-04 17:45:59.075+0000 INFO  [org.neo4j]: Opened logical log [GRAPHDB.db\index\lucene.log.1] version=1, lastTxId=1 (clean)
+2015-03-04 17:45:59.169+0000 INFO  [org.neo4j]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2015-03-04 17:45:59.169+0000 INFO  [org.neo4j]: Graph Database: org.neo4j.kernel.EmbeddedGraphDatabase StoreId{creationTime=1425491082136, randomId=4705605444655156677, storeVersion=14406081294923270, upgradeTime=-1, upgradeId=-1}
+2015-03-04 17:45:59.169+0000 INFO  [org.neo4j]: Kernel version: Neo4j - Graph Database Kernel (neo4j-kernel), version: 2.1.7
+2015-03-04 17:45:59.169+0000 INFO  [org.neo4j]: Neo4j component versions:
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Cypher Compiler 1.9 (neo4j-cypher-compiler-1.9), version: 2.0.3; revision: 2.0.3:2.0-maint:72/307c563c11b75fdc71cfa6df05daf9b08d6c37dc
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Cypher Commons (neo4j-cypher-commons), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j Server API (server-api), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Graph Database Kernel (neo4j-kernel), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Cypher Compiler 2.1 (neo4j-cypher-compiler-2.1), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Generic shell (neo4j-shell), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   neo4j-udc, version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Lucene Index (neo4j-lucene-index), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Cypher Compiler 2.0 (neo4j-cypher-compiler-2.0), version: 2.0.3; revision: 2.0.3:2.0-maint:72/307c563c11b75fdc71cfa6df05daf9b08d6c37dc
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Graph Matching (neo4j-graph-matching), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - JMX support (neo4j-jmx), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Cypher (neo4j-cypher), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]:   Neo4j - Graph Algorithms (neo4j-graph-algo), version: 2.1.7; revision: 2.1.7:2.1-maint:649/ed233fc1087f4549d1956b8ec4a504fe2f13a446
+2015-03-04 17:45:59.184+0000 INFO  [org.neo4j]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2015-03-04 17:45:59.200+0000 INFO  [org.neo4j]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2015-03-04 17:45:59.200+0000 INFO  [org.neo4j]: Store versions:
+    Store versions:
+      NeoStore v0.A.3
+      SchemaStore v0.A.3
+      NodeStore v0.A.3
+      RelationshipStore v0.A.3
+      RelationshipTypeStore v0.A.3
+      LabelTokenStore v0.A.3
+      PropertyStore v0.A.3
+      PropertyIndexStore v0.A.3
+      StringPropertyStore v0.A.3
+      ArrayPropertyStore v0.A.3
+      RelationshipGroupStore v0.A.3
+2015-03-04 17:45:59.200+0000 INFO  [org.neo4j]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2015-03-04 17:45:59.200+0000 INFO  [org.neo4j]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2015-03-04 17:45:59.215+0000 INFO  [org.neo4j]: Id usage:
+    Id usage:
+      SchemaStore: used=1 high=0
+      NodeStore: used=10 high=9
+      RelationshipStore: used=18 high=17
+      RelationshipTypeStore: used=2 high=1
+      LabelTokenStore: used=4 high=3
+      PropertyStore: used=28 high=27
+      PropertyIndexStore: used=2 high=1
+      StringPropertyStore: used=1 high=0
+      ArrayPropertyStore: used=1 high=0
+      RelationshipGroupStore: used=1 high=0
+2015-03-04 17:45:59.215+0000 INFO  [org.neo4j]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2015-03-04 17:45:59.215+0000 INFO  [org.neo4j]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2015-03-04 17:45:59.215+0000 INFO  [org.neo4j]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2015-03-04 17:45:59.215+0000 INFO  [org.neo4j]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2015-03-04 17:45:59.231+0000 INFO  [org.neo4j]: Disk space on partition (Total / Free / Free %): 492019634176 / 306204233728 / 62
+Storage files: (filename : modification date - size)
+      active_tx_log: 2015-03-04T14:44:48-0300 - 11,00 B
+      index:
+        lucene-store.db: 2015-03-04T14:44:54-0300 - 40,00 B
+        lucene.log.1: 2015-03-04T14:45:59-0300 - 16,00 B
+        lucene.log.active: 2015-03-04T14:45:59-0300 - 4,00 B
+        lucene.log.v0: 2015-03-04T14:44:54-0300 - 16,00 B
+      - Total: 2015-03-04T14:45:59-0300 - 76,00 B
+      lock: 2015-03-04T14:45:58-0300 - 0,00 B
+      messages.log: 2015-03-04T14:44:57-0300 - 34,42 kB
+      neostore: 2015-03-04T14:45:58-0300 - 81,00 B
+      neostore.id: 2015-03-04T14:44:57-0300 - 9,00 B
+      neostore.labeltokenstore.db: 2015-03-04T14:45:58-0300 - 20,00 B
+      neostore.labeltokenstore.db.id: 2015-03-04T14:44:55-0300 - 9,00 B
+      neostore.labeltokenstore.db.names: 2015-03-04T14:45:58-0300 - 190,00 B
+      neostore.labeltokenstore.db.names.id: 2015-03-04T14:44:55-0300 - 9,00 B
+      neostore.nodestore.db: 2015-03-04T14:45:58-0300 - 150,00 B
+      neostore.nodestore.db.id: 2015-03-04T14:44:57-0300 - 9,00 B
+      neostore.nodestore.db.labels: 2015-03-04T14:45:58-0300 - 68,00 B
+      neostore.nodestore.db.labels.id: 2015-03-04T14:44:57-0300 - 9,00 B
+      neostore.propertystore.db: 2015-03-04T14:45:58-0300 - 1,12 kB
+      neostore.propertystore.db.arrays: 2015-03-04T14:45:58-0300 - 128,00 B
+      neostore.propertystore.db.arrays.id: 2015-03-04T14:44:56-0300 - 9,00 B
+      neostore.propertystore.db.id: 2015-03-04T14:44:56-0300 - 9,00 B
+      neostore.propertystore.db.index: 2015-03-04T14:45:58-0300 - 18,00 B
+      neostore.propertystore.db.index.id: 2015-03-04T14:44:56-0300 - 9,00 B
+      neostore.propertystore.db.index.keys: 2015-03-04T14:45:58-0300 - 114,00 B
+      neostore.propertystore.db.index.keys.id: 2015-03-04T14:44:56-0300 - 9,00 B
+      neostore.propertystore.db.strings: 2015-03-04T14:45:58-0300 - 128,00 B
+      neostore.propertystore.db.strings.id: 2015-03-04T14:44:56-0300 - 9,00 B
+      neostore.relationshipgroupstore.db: 2015-03-04T14:45:58-0300 - 25,00 B
+      neostore.relationshipgroupstore.db.id: 2015-03-04T14:44:57-0300 - 9,00 B
+      neostore.relationshipstore.db: 2015-03-04T14:45:58-0300 - 612,00 B
+      neostore.relationshipstore.db.id: 2015-03-04T14:44:57-0300 - 9,00 B
+      neostore.relationshiptypestore.db: 2015-03-04T14:45:58-0300 - 10,00 B
+      neostore.relationshiptypestore.db.id: 2015-03-04T14:44:55-0300 - 9,00 B
+      neostore.relationshiptypestore.db.names: 2015-03-04T14:45:58-0300 - 114,00 B
+      neostore.relationshiptypestore.db.names.id: 2015-03-04T14:44:55-0300 - 9,00 B
+      neostore.schemastore.db: 2015-03-04T14:45:58-0300 - 64,00 B
+      neostore.schemastore.db.id: 2015-03-04T14:44:57-0300 - 9,00 B
+      nioneo_logical.log.1: 2015-03-04T14:45:58-0300 - 16,00 B
+      nioneo_logical.log.active: 2015-03-04T14:45:58-0300 - 4,00 B
+      nioneo_logical.log.v0: 2015-03-04T14:44:54-0300 - 7,67 kB
+      schema:
+        label:
+          lucene:
+            _9.fdt: 2015-03-04T14:44:49-0300 - 33,00 B
+            _9.fdx: 2015-03-04T14:44:49-0300 - 12,00 B
+            _9.fnm: 2015-03-04T14:44:49-0300 - 32,00 B
+            _9.frq: 2015-03-04T14:44:49-0300 - 5,00 B
+            _9.nrm: 2015-03-04T14:44:49-0300 - 4,00 B
+            _9.tii: 2015-03-04T14:44:49-0300 - 35,00 B
+            _9.tis: 2015-03-04T14:44:49-0300 - 59,00 B
+            segments.gen: 2015-03-04T14:44:55-0300 - 20,00 B
+            segments_1: 2015-03-04T14:44:55-0300 - 242,00 B
+            write.lock: 2015-03-04T14:45:58-0300 - 0,00 B
+          - Total: 2015-03-04T14:45:58-0300 - 442,00 B
+        - Total: 2015-03-04T14:44:48-0300 - 442,00 B
+      - Total: 2015-03-04T14:44:47-0300 - 442,00 B
+      store_lock: 2015-03-04T14:44:42-0300 - 0,00 B
+      tm_tx_log.1: 2015-03-04T14:45:59-0300 - 0,00 B
+2015-03-04 17:56:58.433+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2015-03-04 17:56:58.589+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2015-03-04 17:56:58.854+0000 ERROR [o.n.k.EmbeddedGraphDatabase]: Startup failed: Component 'org.neo4j.kernel.StoreLockerLifecycleAdapter@2b662a77' was successfully initialized, but failed to start. Please see attached cause exception.: Unable to obtain lock on store lock file: GRAPHDB.db\store_lock. Please ensure no other process is using this database, and that the directory is writable (required even for read-only access): Couldn't lock lock file C:\Users\Pablo Cruz Navea\workspace\ThesisProt\GRAPHDB.db\lock because another process already holds the lock.
+2015-03-04 17:56:58.854+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2015-03-04 17:56:58.854+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- SHUTDOWN diagnostics START ---
+2015-03-04 17:56:58.854+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- SHUTDOWN diagnostics END ---
+2015-03-04 17:45:59.325+0000 INFO  [org.neo4j]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2015-03-04 17:45:59.403+0000 INFO  [org.neo4j]: Database is now ready
+2015-03-04 17:56:56.162+0000 INFO  [org.neo4j]: GC Monitor: Application threads blocked for 264ms.
+2015-03-04 17:56:59.513+0000 INFO  [org.neo4j]: Shutdown started
+2015-03-04 17:56:59.513+0000 INFO  [org.neo4j]: Database is now unavailable
+2015-03-04 17:56:59.704+0000 INFO  [org.neo4j]: Closed log GRAPHDB.db\index\lucene.log
+2015-03-04 17:56:59.767+0000 INFO  [org.neo4j]: TM shutting down
+2015-03-04 17:57:00.001+0000 INFO  [org.neo4j]: Closed log GRAPHDB.db\nioneo_logical.log
+2015-03-04 17:57:00.048+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:00.221+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:57:00.377+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=8 switches=0 ooe=0
+2015-03-04 17:57:00.533+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:00.690+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:00.862+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:01.112+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:57:01.394+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:01.660+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.propertystore.db hit=27 miss=0 switches=0 ooe=0
+2015-03-04 17:57:01.926+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.relationshipstore.db hit=53 miss=0 switches=0 ooe=0
+2015-03-04 17:57:02.129+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:02.271+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.nodestore.db hit=29 miss=0 switches=0 ooe=0
+2015-03-04 17:57:02.381+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:02.506+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:02.724+0000 INFO  [org.neo4j]: GRAPHDB.db\neostore hit=0 miss=20 switches=0 ooe=0
+2015-03-04 17:57:02.865+0000 INFO  [org.neo4j]: NeoStore closed
+2015-03-04 17:57:02.865+0000 INFO  [org.neo4j]: --- STOPPING diagnostics START ---
+2015-03-04 17:57:02.865+0000 INFO  [org.neo4j]: --- STOPPING diagnostics END ---
+2015-03-04 17:57:07.427+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2015-03-04 17:57:07.606+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2015-03-04 17:57:07.887+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:57:07.887+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2015-03-04 17:57:07.902+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2015-03-04 17:57:07.902+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+2015-03-04 17:57:07.902+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=47104b mappedMem=47185920b (storeSize=128b)
+2015-03-04 17:57:07.902+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:57:07.918+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=18b)
+2015-03-04 17:57:07.918+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=54400b mappedMem=54525952b (storeSize=128b)
+2015-03-04 17:57:07.918+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=56621b mappedMem=56623104b (storeSize=1148b)
+2015-03-04 17:57:07.934+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=69190b mappedMem=69206016b (storeSize=612b)
+2015-03-04 17:57:07.934+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 17:57:07.934+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=15720b mappedMem=15728640b (storeSize=150b)
+2015-03-04 17:57:07.934+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 17:57:07.949+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 17:57:07.949+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2015-03-04 17:57:08.418+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\nioneo_logical.log.1] version=2, lastTxId=21 (clean)
+2015-03-04 17:57:08.512+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: GRAPHDB.db\tm_tx_log.1
+2015-03-04 17:57:08.528+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2015-03-04 17:57:08.559+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\index\lucene.log.1] version=2, lastTxId=1 (clean)
+2015-03-04 17:57:08.656+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2015-03-04 17:57:08.687+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2015-03-04 17:57:08.703+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2015-03-04 17:57:08.828+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2015-03-04 17:57:08.922+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2015-03-04 17:57:08.938+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2015-03-04 17:57:11.841+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 509ms [total block time: 0.509s]
+2015-03-04 17:57:13.574+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2015-03-04 17:57:13.607+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2015-03-04 17:57:13.611+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2015-03-04 17:57:13.868+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\index\lucene.log
+2015-03-04 17:57:14.027+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2015-03-04 17:57:14.330+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\nioneo_logical.log
+2015-03-04 17:57:14.408+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:14.564+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:57:14.707+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=8 switches=0 ooe=0
+2015-03-04 17:57:14.876+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:15.044+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:15.220+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:15.360+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:57:15.554+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:15.686+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db hit=22 miss=0 switches=0 ooe=0
+2015-03-04 17:57:15.841+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipstore.db hit=45 miss=0 switches=0 ooe=0
+2015-03-04 17:57:15.976+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:16.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db hit=26 miss=0 switches=0 ooe=0
+2015-03-04 17:57:16.211+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:16.351+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:16.507+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore hit=0 miss=14 switches=0 ooe=0
+2015-03-04 17:57:16.774+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2015-03-04 17:57:16.774+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2015-03-04 17:57:16.774+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2015-03-04 17:57:28.917+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2015-03-04 17:57:29.075+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2015-03-04 17:57:29.364+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:57:29.364+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2015-03-04 17:57:29.379+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2015-03-04 17:57:29.379+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+2015-03-04 17:57:29.379+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=47104b mappedMem=47185920b (storeSize=128b)
+2015-03-04 17:57:29.379+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:57:29.392+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=18b)
+2015-03-04 17:57:29.392+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=54400b mappedMem=54525952b (storeSize=128b)
+2015-03-04 17:57:29.392+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=56621b mappedMem=56623104b (storeSize=1148b)
+2015-03-04 17:57:29.392+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=69190b mappedMem=69206016b (storeSize=612b)
+2015-03-04 17:57:29.420+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 17:57:29.428+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=15720b mappedMem=15728640b (storeSize=150b)
+2015-03-04 17:57:29.433+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 17:57:29.438+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 17:57:29.441+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2015-03-04 17:57:29.943+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\nioneo_logical.log.1] version=3, lastTxId=21 (clean)
+2015-03-04 17:57:30.015+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: GRAPHDB.db\tm_tx_log.1
+2015-03-04 17:57:30.028+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2015-03-04 17:57:30.065+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\index\lucene.log.1] version=3, lastTxId=1 (clean)
+2015-03-04 17:57:30.136+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2015-03-04 17:57:30.167+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2015-03-04 17:57:30.172+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2015-03-04 17:57:30.173+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2015-03-04 17:57:30.173+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2015-03-04 17:57:30.176+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2015-03-04 17:57:30.177+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2015-03-04 17:57:30.177+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2015-03-04 17:57:30.178+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2015-03-04 17:57:30.295+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2015-03-04 17:57:30.388+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2015-03-04 17:57:30.406+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2015-03-04 17:57:32.057+0000 WARN  [o.n.k.EmbeddedGraphDatabase]: GC Monitor: Application threads blocked for an additional 167ms [total block time: 0.167s]
+2015-03-04 17:57:34.838+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2015-03-04 17:57:34.838+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2015-03-04 17:57:34.838+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2015-03-04 17:57:35.053+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\index\lucene.log
+2015-03-04 17:57:35.148+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2015-03-04 17:57:35.556+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\nioneo_logical.log
+2015-03-04 17:57:35.838+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:36.041+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:57:36.189+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=8 switches=0 ooe=0
+2015-03-04 17:57:36.359+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:36.600+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:36.725+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:57:36.867+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:57:36.994+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.143+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db hit=22 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.265+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipstore.db hit=45 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.386+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.523+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db hit=26 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.684+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.813+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:57:37.964+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore hit=0 miss=14 switches=0 ooe=0
+2015-03-04 17:57:38.095+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2015-03-04 17:57:38.095+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2015-03-04 17:57:38.095+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2015-03-04 17:58:09.460+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2015-03-04 17:58:09.616+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2015-03-04 17:58:09.897+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:58:09.913+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2015-03-04 17:58:09.913+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2015-03-04 17:58:09.913+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+2015-03-04 17:58:09.913+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=47104b mappedMem=47185920b (storeSize=128b)
+2015-03-04 17:58:09.913+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 17:58:09.928+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=18b)
+2015-03-04 17:58:09.928+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=54400b mappedMem=54525952b (storeSize=128b)
+2015-03-04 17:58:09.928+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=56621b mappedMem=56623104b (storeSize=1148b)
+2015-03-04 17:58:09.944+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=69190b mappedMem=69206016b (storeSize=612b)
+2015-03-04 17:58:09.944+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 17:58:09.944+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=15720b mappedMem=15728640b (storeSize=150b)
+2015-03-04 17:58:09.944+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 17:58:09.960+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 17:58:09.960+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2015-03-04 17:58:10.425+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\nioneo_logical.log.1] version=4, lastTxId=21 (clean)
+2015-03-04 17:58:10.534+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: GRAPHDB.db\tm_tx_log.1
+2015-03-04 17:58:10.534+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2015-03-04 17:58:10.566+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\index\lucene.log.1] version=4, lastTxId=1 (clean)
+2015-03-04 17:58:10.628+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2015-03-04 17:58:10.659+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2015-03-04 17:58:10.659+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2015-03-04 17:58:10.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2015-03-04 17:58:10.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2015-03-04 17:58:10.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2015-03-04 17:58:10.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2015-03-04 17:58:10.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2015-03-04 17:58:10.675+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2015-03-04 17:58:10.784+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2015-03-04 17:58:10.878+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2015-03-04 17:58:10.878+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2015-03-04 17:58:14.533+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2015-03-04 17:58:14.533+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2015-03-04 17:58:14.533+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2015-03-04 17:58:14.643+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\index\lucene.log
+2015-03-04 17:58:14.674+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2015-03-04 17:58:15.363+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\nioneo_logical.log
+2015-03-04 17:58:15.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:58:15.894+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:58:16.267+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=8 switches=0 ooe=0
+2015-03-04 17:58:16.564+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:58:16.783+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:58:16.986+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=4 switches=0 ooe=0
+2015-03-04 17:58:17.314+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=2 switches=0 ooe=0
+2015-03-04 17:58:17.517+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:58:17.762+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db hit=22 miss=0 switches=0 ooe=0
+2015-03-04 17:58:17.950+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipstore.db hit=45 miss=0 switches=0 ooe=0
+2015-03-04 17:58:18.090+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:58:18.403+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db hit=26 miss=0 switches=0 ooe=0
+2015-03-04 17:58:18.684+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:58:18.942+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 17:58:19.224+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore hit=0 miss=14 switches=0 ooe=0
+2015-03-04 17:58:19.411+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2015-03-04 17:58:19.411+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2015-03-04 17:58:19.411+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2015-03-04 18:08:28.760+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2015-03-04 18:08:28.912+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2015-03-04 18:08:29.214+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 18:08:29.214+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=10b)
+2015-03-04 18:08:29.214+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=190b)
+2015-03-04 18:08:29.214+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=20b)
+2015-03-04 18:08:29.214+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.strings] brickCount=0 brickSize=47104b mappedMem=47185920b (storeSize=128b)
+2015-03-04 18:08:29.214+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=114b)
+2015-03-04 18:08:29.230+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=18b)
+2015-03-04 18:08:29.230+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=54400b mappedMem=54525952b (storeSize=128b)
+2015-03-04 18:08:29.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.propertystore.db] brickCount=0 brickSize=56621b mappedMem=56623104b (storeSize=1148b)
+2015-03-04 18:08:29.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipstore.db] brickCount=0 brickSize=69190b mappedMem=69206016b (storeSize=612b)
+2015-03-04 18:08:29.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2015-03-04 18:08:29.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.nodestore.db] brickCount=0 brickSize=15720b mappedMem=15728640b (storeSize=150b)
+2015-03-04 18:08:29.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2015-03-04 18:08:29.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2015-03-04 18:08:29.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [GRAPHDB.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=81b)
+2015-03-04 18:08:29.727+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\nioneo_logical.log.1] version=5, lastTxId=21 (clean)
+2015-03-04 18:08:29.805+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: GRAPHDB.db\tm_tx_log.1
+2015-03-04 18:08:29.821+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2015-03-04 18:08:29.852+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [GRAPHDB.db\index\lucene.log.1] version=5, lastTxId=1 (clean)
+2015-03-04 18:08:29.915+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2015-03-04 18:08:29.946+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2015-03-04 18:08:30.071+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2015-03-04 18:08:30.149+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2015-03-04 18:08:30.165+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2015-03-04 18:08:33.845+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2015-03-04 18:08:33.845+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2015-03-04 18:08:33.845+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2015-03-04 18:08:34.007+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\index\lucene.log
+2015-03-04 18:08:34.085+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2015-03-04 18:08:34.351+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log GRAPHDB.db\nioneo_logical.log
+2015-03-04 18:08:34.434+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db.names hit=0 miss=4 switches=0 ooe=0
+2015-03-04 18:08:34.571+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshiptypestore.db hit=0 miss=2 switches=0 ooe=0
+2015-03-04 18:08:34.712+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db.names hit=0 miss=8 switches=0 ooe=0
+2015-03-04 18:08:34.884+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.labeltokenstore.db hit=0 miss=4 switches=0 ooe=0
+2015-03-04 18:08:35.040+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2015-03-04 18:08:35.196+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index.keys hit=0 miss=4 switches=0 ooe=0
+2015-03-04 18:08:35.353+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.index hit=0 miss=2 switches=0 ooe=0
+2015-03-04 18:08:35.486+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2015-03-04 18:08:35.632+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.propertystore.db hit=22 miss=0 switches=0 ooe=0
+2015-03-04 18:08:35.788+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipstore.db hit=45 miss=0 switches=0 ooe=0
+2015-03-04 18:08:35.913+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2015-03-04 18:08:36.068+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.nodestore.db hit=26 miss=0 switches=0 ooe=0
+2015-03-04 18:08:36.208+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 18:08:36.318+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2015-03-04 18:08:36.489+0000 INFO  [o.n.k.i.n.s.StoreFactory]: GRAPHDB.db\neostore hit=0 miss=14 switches=0 ooe=0
+2015-03-04 18:08:36.614+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2015-03-04 18:08:36.614+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2015-03-04 18:08:36.614+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
